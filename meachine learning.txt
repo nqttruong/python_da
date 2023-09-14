@@ -1,0 +1,24 @@
+4. Alforithms
+4.1. Supervised learning
+- Được cung cấp một bộ nhãn, dữ liệu => Tìm output dựa trên các nhãn đã được cung cấp
+- Học các đặc trưng xoay quanh các bức ảnh. Khi nhận các một bức ảnh sẽ phân tích
+- Có 2 nhánh chính: 
++ phân loại(classification): phân loại chó mèo
++ hồi quy(regression): bài toán kinh điển: dự đoán giá nhà
+
+4.2. Unsupervised learning
+- Nhiệm vụ mô hình là phân tích các đặc trưng của input đầu vào rồi phân nhóm các đặc trưng
+- Có hai nhánh chính:
++ Bài toán phân nhóm(clustering): phân nhóm khách hàng
++ Giảm chiều dữ liệu: 
+
+4.3. Học tăng cường(Reinforcement learning)
+
+4.4. Học bán giám sát(Semi- supervised learning)
+
+
+
+
+
+
+
